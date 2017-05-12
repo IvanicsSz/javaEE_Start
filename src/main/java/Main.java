@@ -24,6 +24,7 @@ public class Main {
 
         portfolioService.sortPortfolio();
 
+
         weld.shutdown();
     }
 }

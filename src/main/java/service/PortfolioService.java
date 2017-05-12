@@ -26,6 +26,7 @@ public class PortfolioService {
 
     private List<EquityModel> portfolio = new ArrayList<>();
 
+    //@Afterproperties set
     public PortfolioService() {
     }
 
