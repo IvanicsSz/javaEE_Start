@@ -37,6 +37,7 @@ public class PortfolioService {
         }
         logger.info("Equities: " + portfolio);
 
+
     }
 
 
